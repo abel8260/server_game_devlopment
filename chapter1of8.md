@@ -19,4 +19,8 @@ Basic html:
         </body>
       </html>
     ```
-    
+    - Now put a prototype title on your page typing:
+      
+    ```
+	        <title>prototype page</title>
+    ```
